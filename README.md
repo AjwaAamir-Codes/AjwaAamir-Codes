@@ -73,7 +73,13 @@
 
 ## 🐍 Contribution Snake
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/AjwaAamir-Codes/AjwaAamir-Codes/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AjwaAamir-Codes/AjwaAamir-Codes/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AjwaAamir-Codes/AjwaAamir-Codes/output/snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AjwaAamir-Codes/AjwaAamir-Codes/output/snake.svg">
+  </picture>
+</p>
 
 ---
 
